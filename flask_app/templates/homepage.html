@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <h1>Welcome to Recipes Recommender</h1>
+        <p>This is a tool that help you to find your recipes based on your grocery cart </p>
+
+        <form action="{{url_for('submit')}}" method="post">
+            <label for="fname">Your List:</label><br>
+            <textarea type="text" id="grocery-list" name="groceryList" row="10" , cols="20"></textarea>
+            <br>
+            <input type="submit" value="Submit">
+        </form> 
+
+    </body>
+</html>
