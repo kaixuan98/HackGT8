@@ -1,4 +1,4 @@
-<h2>Recommedation Sytem for Recipes</h2>
+<h2>Recommedation System for Recipes</h2>
 
 This software was created as part of the 2021 HackGT8 hackathon. Using flask as the prototype, given a list of food items, the 
 user will be given recipe recommendations. The user will also be given an option to apply filters on the recipe recommendations 
