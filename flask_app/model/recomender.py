@@ -1,5 +1,3 @@
-from flask import jsonify
-from numpy import DataSource
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
@@ -9,7 +7,6 @@ from model.helpers import compare_input, extract_feature, get_recommendations
 
 from model.helpers import dataset
 # from helpers import ogdataset, dataset, compare_input, extract_feature, get_recommendations
-
 
 def recomend(RECIPES_PATH, TFIDF_MODEL_PATH, TFIDF_ENCODING_PATH, ingredients, N):
     og_df = ogdataset(RECIPES_PATH)

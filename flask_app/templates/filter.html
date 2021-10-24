@@ -24,7 +24,7 @@
             <input type="text" id="allergy" name="allergy">
             <input type="submit" value="Filter">
         </form> 
-        <!-- result -->
+        <!-- filter result -->
         <!-- <p>{{items}}</p> -->
         <table>
             <tr>
@@ -34,14 +34,14 @@
                 <th>Prep time(mins)</th>
             </tr>
            
-                {% for i in range(items|length) %}
-                <tr>
-                    <td>{{i}}</td>
-                    <td>{{items[i]["name"]}}</td>
-                    <td>{{items[i]["ingredients"]}}</td>
-                    <td>{{items[i]["minutes"]}}</td>
-                </tr>
-                {% endfor %}
+            {% for i in range(items|length) %}
+            <tr>
+                <td>{{i}}</td>
+                <td>{{items[i]["name"]}}</td>
+                <td>{{items[i]["ingredients"]}}</td>
+                <td>{{items[i]["minutes"]}}</td>
+            </tr>
+            {% endfor %}
             
         </table>
        

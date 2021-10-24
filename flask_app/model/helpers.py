@@ -9,6 +9,7 @@ def ogdataset(RECIPES_PATH):
 
 def dataset(recipe_df): 
      new_recipe_df = recipe_df.copy()
+     new_recipe_df = new_recipe_df[:10000]
      new_columns = ['name' ,'id' , 'ingredients']
      new_recipe_df = new_recipe_df.drop([c for c in new_recipe_df.columns if c not in new_columns], axis='columns')
      return new_recipe_df
@@ -53,6 +54,7 @@ def get_recommendations(recipe_df, N, scores):
         recommendation.at[count, 'id'] = recipe_df['id'][i]
         recommendation.at[count, 'ingredients'] = recipe_df['ingredients'][i]
         recommendation.at[count, 'nutrition'] = recipe_df['nutrition'][i]
+        recommendation.at[count, 'minutes'] = recipe_df['minutes'][i]
         recommendation.at[count, 'score'] = "{:.3f}".format(float(scores[i]))
         count += 1
     return recommendation

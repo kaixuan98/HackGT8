@@ -39,6 +39,7 @@ def allergy(allergen, data_frame):
 
 
 def nutrition_range(inequality, range_num, nutrition_name, data_frame):
+    print(nutrition_name)
     new_df = data_frame.copy()
     if inequality == "less than or equal to":
         index_names = new_df[new_df[nutrition_name] > range_num].index
