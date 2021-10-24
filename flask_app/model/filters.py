@@ -48,3 +48,4 @@ def nutrition_range(inequality, range_num, nutrition_name, data_frame):
         new_df.drop(index_names, inplace=True)
     else:
         return new_df
+    return new_df
