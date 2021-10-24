@@ -5,8 +5,8 @@ user will be given recipe recommendations. The user will also be given an option
 based on allergies or nutrition information such as calories, sodium, and more. 
 
 <h2>Installation</h2>
-This software uses the RAW_recipes.csv dataset found at https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions
-that consists of over 180K+ recipes. There are also other mandatory dependencies such as NumPy, scikit-learn, Flask, and more that can easily 
+This software uses the RAW_recipes.csv dataset found at https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions. 
+There are also other mandatory dependencies such as NumPy, scikit-learn, Flask, and more that can easily 
 be installed via pip. 
 
 <h2>Acknowledgments</h2>
