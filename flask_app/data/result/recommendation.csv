@@ -1,0 +1,101 @@
+,name,id,ingredients,nutrition,minutes,score
+0,emerald ecstasy  green smoothie,342619.0,"['green grapes', 'banana', 'fresh pineapple', 'apple', 'fresh spinach', 'ice']","[167.9, 0.0, 127.0, 1.0, 4.0, 0.0, 14.0]",6.0,0.608
+1,a bit of this smoothie,321494.0,"['orange', 'apple', 'kiwi fruit', 'baby spinach leaves', 'vanilla yogurt', 'banana', 'pineapple juice']","[310.7, 5.0, 179.0, 4.0, 16.0, 7.0, 23.0]",3.0,0.518
+2,sweet dreams  shake,29916.0,"['milk', 'banana', 'honey']","[325.0, 14.0, 126.0, 5.0, 18.0, 28.0, 18.0]",10.0,0.469
+3,all american apple pie spread,395671.0,"['cream cheese', 'apple juice', 'brown sugar', 'apple pie spice', 'apple', 'pecans']","[60.9, 7.0, 10.0, 1.0, 2.0, 15.0, 1.0]",10.0,0.426
+4,almond banana shake,340071.0,"['banana', 'almond milk', 'ground cinnamon']","[111.5, 0.0, 57.0, 0.0, 2.0, 0.0, 9.0]",4.0,0.413
+5,jamba juice at home  strawberries wild  smoothie,152259.0,"['apple juice', 'strawberry', 'banana', 'non-fat vanilla frozen yogurt', 'ice']","[76.5, 0.0, 57.0, 0.0, 1.0, 0.0, 6.0]",10.0,0.405
+6,a mouth watering smoothie,132587.0,"['mixed berries', 'plain yogurt', 'banana', 'apple juice', 'ice cubes']","[401.4, 7.0, 78.0, 2.0, 16.0, 13.0, 28.0]",2.0,0.386
+7,a tropical fruit parfait,284060.0,"['banana', 'apple juice', 'mango', 'kiwi', 'granola cereal']","[455.9, 13.0, 236.0, 0.0, 15.0, 8.0, 31.0]",5.0,0.385
+8,african peanut dipping sauce,25020.0,"['onions', 'peanut oil', 'cayenne', 'ground ginger', 'banana', 'tomato juice', 'apple juice', 'peanut butter']","[304.6, 30.0, 62.0, 13.0, 19.0, 19.0, 9.0]",35.0,0.375
+9,2 ingredients  eggs   banana  pancakes,501408.0,"['eggs', 'banana', 'cooking spray']","[248.0, 15.0, 59.0, 5.0, 27.0, 16.0, 9.0]",10.0,0.370
+10,apple a day  milk shake,5289.0,"['milk', 'vanilla ice cream', 'frozen apple juice concentrate', 'apple']","[160.2, 10.0, 55.0, 3.0, 9.0, 20.0, 7.0]",0.0,0.359
+11,1905 blue ribbon fruit cup,242259.0,"['pink grapefruit', 'oranges', 'fresh pineapple', 'banana', 'apple', 'pineapple juice', 'sugar']","[172.4, 0.0, 135.0, 0.0, 3.0, 0.0, 14.0]",75.0,0.355
+12,10 minute creamed spinach,94547.0,"['cream of spinach soup mix', 'milk', 'frozen chopped spinach', 'nutmeg', 'pepper']","[86.5, 5.0, 5.0, 5.0, 15.0, 9.0, 3.0]",10.0,0.353
+13,3 ingredient cinnamon banana slice,18766.0,"['whole wheat bread', 'banana', 'cinnamon']","[114.6, 2.0, 30.0, 6.0, 6.0, 1.0, 8.0]",5.0,0.352
+14,greens to go  smoothie,353044.0,"['banana', 'water', 'honey', 'apple', 'coconut milk', 'flax seed oil', 'oat bran', 'greens']","[209.5, 20.0, 64.0, 1.0, 5.0, 58.0, 7.0]",6.0,0.348
+15,pinards en branche  sauted spinach,306245.0,"['fresh spinach', 'water', 'nutmeg', 'butter']","[61.8, 5.0, 2.0, 6.0, 9.0, 9.0, 1.0]",50.0,0.341
+16,amazing apple nut muffins,372356.0,"['egg', 'apple juice', 'vegetable oil', 'vanilla', 'sugar', 'flour', 'brown sugar', 'baking powder', 'salt', 'pecans', 'apple', 'cinnamon']","[245.4, 20.0, 50.0, 8.0, 6.0, 8.0, 9.0]",35.0,0.340
+17,aloha smoothie,43281.0,"['pineapple juice', 'strawberry yogurt', 'banana']","[434.0, 5.0, 126.0, 6.0, 25.0, 11.0, 30.0]",10.0,0.325
+18,abs diet better breakfast smoothie,276697.0,"['banana', 'peach', 'orange juice', 'ice']","[171.1, 1.0, 111.0, 0.0, 5.0, 0.0, 14.0]",5.0,0.322
+19,100  healthy   lucious spice cake  low calorie,417632.0,"['canned corn', 'apple juice', 'egg', 'egg whites', 'instant oats', 'banana', 'walnuts', 'baking powder', 'ground cinnamon', 'ground nutmeg', 'cinnamon', 'vanilla sugar']","[713.9, 22.0, 109.0, 31.0, 63.0, 16.0, 41.0]",25.0,0.312
+20,cream  of spinach soup  vegan,24701.0,"['onion', 'scallion', 'apple juice', 'olive oil', 'spinach', 'fresh parsley', 'celery', 'broth', 'rolled oats', 'salt', 'dried thyme', 'white pepper']","[64.8, 3.0, 13.0, 54.0, 4.0, 2.0, 3.0]",55.0,0.310
+21,acorn squash stuffed with apple couscous,252234.0,"['couscous', 'apple juice', 'prune', 'dried cranberries', 'dried apple', 'apple juice concentrate', 'cardamom', 'maple syrup', 'acorn squash', 'pecans']","[224.1, 0.0, 46.0, 0.0, 9.0, 0.0, 17.0]",35.0,0.300
+22,african spinach and peanut butter stew,348276.0,"['onions', 'tomatoes', 'spinach', 'peanut butter', 'salt', 'pepper', 'oil']","[184.7, 14.0, 28.0, 10.0, 23.0, 9.0, 6.0]",25.0,0.287
+23,99 bananas  foster oatmeal,341118.0,"['oatmeal', 'water', 'brown sugar cinnamon syrup', 'brown sugar', 'butter', 'banana', 'coffee-mate cinnamon vanilla liquid creamer', 'banana schnapps', 'chocolate whipped cream']","[288.1, 15.0, 123.0, 3.0, 7.0, 28.0, 16.0]",10.0,0.286
+24,a healthy chocolate smoothie,162376.0,"['banana', 'ovaltine', 'vanilla ice cream']","[200.7, 7.0, 114.0, 6.0, 5.0, 14.0, 12.0]",3.0,0.284
+25,acne cleansing salad,163591.0,"['olive oil', 'apple cider vinegar', 'garlic', 'onion', 'baby spinach', 'rocket', 'collard greens', 'carrot']","[194.8, 21.0, 15.0, 3.0, 7.0, 9.0, 5.0]",5.0,0.284
+26,adult fruit salad    alcoholic  martinique    caribbean,373741.0,"['banana', 'kiwi fruits', 'navel orange', 'fuji apple', 'green grape', 'strawberry', 'fresh pineapple', 'rum']","[108.2, 0.0, 69.0, 0.0, 2.0, 0.0, 8.0]",10.0,0.281
+27,creamed  spinach,16327.0,"['frozen spinach', 'onion', 'yogurt', 'parmesan cheese']","[92.5, 4.0, 21.0, 5.0, 15.0, 6.0, 4.0]",12.0,0.280
+28,p anana confetti circles,25512.0,"['banana', 'peanut butter', 'candy sprinkles']","[146.6, 12.0, 34.0, 3.0, 9.0, 8.0, 5.0]",5.0,0.278
+29,albanian byrek,4880.0,"['flour', 'water', 'oil', 'vinegar', 'salt', 'butter', 'spinach', 'yogurt', 'eggs']","[354.4, 42.0, 25.0, 59.0, 37.0, 37.0, 2.0]",0.0,0.276
+30,tasty dish s   banana pudding in 2 minutes,286484.0,"['banana', 'plain yogurt', 'ground nutmeg', 'pure vanilla extract']","[72.9, 1.0, 34.0, 0.0, 3.0, 3.0, 5.0]",2.0,0.275
+31,need a pick me up  banana peanut butter smoothie  no,276865.0,"['banana', 'milk', 'creamy peanut butter', 'unsweetened cocoa powder']","[283.3, 20.0, 63.0, 5.0, 19.0, 24.0, 12.0]",10.0,0.272
+32,almost instant baked apple,389851.0,"['apple', 'brown sugar', 'cinnamon', 'raisins', 'butter', 'water', 'cream']","[211.1, 6.0, 152.0, 1.0, 1.0, 12.0, 15.0]",7.0,0.267
+33,5 a day smoothie,170981.0,"['orange', 'banana', 'sweet potato', 'carrot', 'orange juice']","[415.0, 1.0, 222.0, 4.0, 13.0, 1.0, 33.0]",10.0,0.267
+34,acorn squash with cranberry stuffing,31146.0,"['acorn squash', 'onion', 'celery rib', 'salt', 'pepper', 'allspice', 'apple', 'apple juice', 'cranberries', 'raisins', 'brown sugar', 'bread', 'nuts']","[108.3, 1.0, 32.0, 8.0, 3.0, 0.0, 8.0]",105.0,0.264
+35,almond cherry cereal,317271.0,"['bran flakes', 'almond butter', 'banana', 'cherries', 'soymilk']","[381.3, 25.0, 87.0, 15.0, 22.0, 8.0, 18.0]",5.0,0.255
+36,abc s  sauteed apple  brussels sprouts and  cabbage,407577.0,"['butter', 'walnut oil', 'onion', 'salt', 'pepper', 'cabbage', 'apple', 'brussels sprouts', 'apple juice', 'garlic cloves', 'nutmeg', 'dried parsley flakes']","[105.3, 7.0, 40.0, 4.0, 3.0, 2.0, 5.0]",50.0,0.254
+37,alabama white barbecue,93802.0,"['chicken pieces', 'wood chips', 'apple cider vinegar', 'butter', 'cayenne pepper', 'black pepper', 'salt', 'mayonnaise', 'prepared horseradish', 'apple juice']","[911.0, 107.0, 15.0, 57.0, 104.0, 117.0, 4.0]",1530.0,0.252
+38,alessandro s secret spinach,88005.0,"['chicken broth', 'fresh spinach', 'salt', 'garlic', 'olive oil', 'red pepper flakes']","[158.8, 17.0, 4.0, 67.0, 16.0, 8.0, 3.0]",15.0,0.250
+39,a different seven layer salad,434502.0,"['sour cream', 'buttermilk', 'feta cheese', 'sugar', 'dill', 'basil', 'pepper', 'spinach tortellini', 'spinach', 'mushrooms', 'roma tomatoes', 'green onions', 'canadian bacon']","[92.3, 9.0, 13.0, 12.0, 11.0, 16.0, 1.0]",20.0,0.248
+40,4 ingredient banana cake for two,428655.0,"['bisquick', 'mashed banana', 'egg white', 'splenda sugar substitute']","[170.3, 7.0, 32.0, 17.0, 9.0, 6.0, 9.0]",20.0,0.236
+41,allergy relief  drink,497751.0,"['honey', 'apple cider vinegar', 'warm water']","[67.0, 0.0, 69.0, 0.0, 0.0, 0.0, 5.0]",5.0,0.235
+42,african brew,220202.0,"['amarula cream liqueur', 'ice', 'chocolate ice cream', 'banana']","[232.4, 11.0, 116.0, 2.0, 7.0, 23.0, 13.0]",5.0,0.234
+43,alexis apple crunch,88443.0,"['apple', 'candy sprinkles']","[71.8, 0.0, 57.0, 0.0, 0.0, 0.0, 6.0]",1.0,0.232
+44,2 minute peanut butter protein shake,354010.0,"['skim milk', 'banana', 'canned pumpkin', 'peanut butter', 'honey', 'cinnamon', 'ground cardamom']","[235.7, 13.0, 60.0, 12.0, 20.0, 10.0, 11.0]",2.0,0.232
+45,allysha s really awesome ramen,413524.0,"['egg', 'ramen noodles', 'spinach', 'meat']","[520.5, 29.0, 11.0, 86.0, 49.0, 41.0, 22.0]",21.0,0.221
+46,cream   of pumpkin or squash soup  vegan,164526.0,"['pumpkin puree', 'vegetable broth', 'small red potato', 'green bell pepper', 'celery', 'red onion', 'smooth cashew butter', 'banana', 'apple', 'salt', 'ground red pepper', 'fresh cilantro leaves', 'pumpkin seeds', 'pesto sauce']","[89.3, 0.0, 35.0, 0.0, 4.0, 0.0, 7.0]",30.0,0.220
+47,ambrosia salad  fruit salad,224753.0,"['mandarin oranges', 'pineapple chunks', 'oranges', 'green apple', 'red apple', 'plain nonfat yogurt', 'sugar', 'salt', 'flaked coconut', 'mini marshmallows']","[197.2, 3.0, 151.0, 2.0, 5.0, 6.0, 15.0]",20.0,0.217
+48,allergen free mini cupcakes,426211.0,"['gluten-free flour', 'baking powder', 'sugar', 'banana', 'olive oil', 'rice milk', 'vanilla extract', 'flax seed', 'water']","[452.7, 45.0, 130.0, 8.0, 3.0, 20.0, 15.0]",35.0,0.217
+49,a   p spanish bar cake,77976.0,"['yellow cake mix', 'apple pie filling', 'eggs', 'apple pie spice', 'ground cloves', 'raisins', 'walnuts', 'cream cheese', 'butter', 'dark corn syrup', 'orange rind', ""confectioners' sugar""]","[7873.5, 506.0, 3337.0, 227.0, 178.0, 654.0, 399.0]",70.0,0.215
+50,allergy friendly trail mix,181297.0,"['dried banana', 'dried cranberries', 'sunflower seeds', 'carob chips']","[82.9, 7.0, 17.0, 0.0, 4.0, 2.0, 3.0]",5.0,0.215
+51,a bit of everything chicken salad,116389.0,"['chicken breast', 'spinach', 'lettuce', 'red grapes', 'cherry tomatoes', 'apple', 'orange', 'cashews', 'sunflower seeds', 'raisins', 'green onions', 'lemon juice', 'honey', 'cayenne pepper', 'salt', 'poppy seeds', 'dijon mustard', 'olive oil']","[783.8, 78.0, 156.0, 23.0, 66.0, 44.0, 18.0]",25.0,0.214
+52,abc bread,249847.0,"['eggs', 'sugar', 'olive oil', 'applesauce', 'banana', 'carrot', 'cinnamon', 'allspice', 'baking powder', 'baking soda', 'vanilla', 'whole wheat flour']","[2646.0, 183.0, 852.0, 58.0, 71.0, 89.0, 126.0]",80.0,0.213
+53,afghan salad dressing,395373.0,"['mayonnaise', 'yogurt', 'dried mint', 'apple cider', 'water', 'salt', 'pepper']","[238.8, 30.0, 17.0, 29.0, 2.0, 16.0, 4.0]",5.0,0.210
+54,amaranth  with tomato type sauce,190911.0,"['amaranth', 'water', 'spinach', 'tomatoes', 'mushroom', 'oregano', 'garlic clove', 'onion', 'salt', 'pepper']","[224.6, 6.0, 16.0, 3.0, 22.0, 4.0, 13.0]",40.0,0.206
+55,2 x 2 cottage cheese smoothie,214264.0,"['banana', 'peach', 'skim milk', 'cottage cheese', 'vanilla extract', 'almond extract', 'splenda sugar substitute']","[335.2, 6.0, 91.0, 17.0, 41.0, 12.0, 17.0]",5.0,0.205
+56,aeden s apple spice almond cookies  scd,434443.0,"['apple', 'butter', 'honey', 'egg', 'almond flour', 'ground cinnamon', 'ground nutmeg', 'baking soda', 'salt']","[69.0, 8.0, 19.0, 3.0, 0.0, 16.0, 1.0]",70.0,0.202
+57,alton brown s bananas foster,100547.0,"['unsalted butter', 'dark brown sugar', 'ground allspice', 'nutmeg', 'banana liqueur', 'bananas', 'dark rum']","[378.4, 18.0, 164.0, 0.0, 2.0, 37.0, 18.0]",12.0,0.201
+58,2 point play,290008.0,"['sour apple schnapps', 'absolut vodka']","[65.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",5.0,0.199
+59,a tasty little tofu treat,315982.0,"['soft tofu', 'smooth peanut butter', 'honey', 'vanilla', 'banana', 'oatmeal', 'cocoa powder', 'ice']","[380.2, 22.0, 115.0, 3.0, 32.0, 14.0, 17.0]",5.0,0.198
+60,almond flour banana pancakes,454825.0,"['eggs', 'splenda sugar substitute', 'vanilla extract', 'banana', 'plain nonfat yogurt', 'baking soda', 'baking powder', 'salt', 'almond flour', 'flour']","[166.3, 5.0, 33.0, 23.0, 16.0, 6.0, 8.0]",20.0,0.197
+61,almost apple pie for one,221305.0,"['apple', 'flour', 'cinnamon', 'nutmeg', 'splenda sugar substitute', 'light margarine']","[82.5, 0.0, 57.0, 0.0, 1.0, 0.0, 7.0]",25.0,0.196
+62,absolut vince vega,261358.0,"['absolut citron vodka', 'apple juice']","[65.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",5.0,0.196
+63,a harvest drink,205199.0,"['molasses', 'powdered ginger', 'apple cider vinegar', 'cold water']","[84.3, 0.0, 62.0, 0.0, 0.0, 0.0, 7.0]",10.0,0.195
+64,add ins bread,117155.0,"['flour', 'cinnamon', 'eggs', 'sugar', 'vanilla', 'salt', 'baking soda', 'baking powder', 'vegetable oil', 'nuts', 'fruit', 'apple', 'applesauce', 'apricot', 'banana', 'carrot', 'cherries', 'dates', 'eggplant', 'fig', 'marmalade', 'mincemeat', 'orange', 'peach', 'pineapple', 'pumpkin', 'raisins', 'raspberries', 'rhubarb', 'yam', 'zucchini']","[196.8, 15.0, 54.0, 6.0, 5.0, 7.0, 8.0]",70.0,0.195
+65,alouette caramel apple brie recipe,390418.0,"['caramels', 'brie cheese', 'apples', 'apple']","[174.2, 20.0, 15.0, 12.0, 19.0, 40.0, 1.0]",20.0,0.194
+66,ber quick banoffee pudding   dessert,240447.0,"['banana', 'dulce de leche', 'digestive biscuits']","[105.0, 0.0, 57.0, 0.0, 2.0, 0.0, 8.0]",20.0,0.193
+67,albanian spinach pie  byrek me spinaq or pite,501370.0,"['oil', 'phyllo dough', 'spinach', 'feta cheese', 'green onion', 'eggs', 'salt']","[965.4, 93.0, 11.0, 65.0, 47.0, 69.0, 27.0]",60.0,0.192
+68,acorn squash with spinach stuffing,358382.0,"['acorn squash', 'celery', 'green onions', 'fresh spinach', 'dry breadcrumbs', 'pecans']","[167.2, 6.0, 5.0, 5.0, 10.0, 2.0, 10.0]",65.0,0.192
+69,2 minute low fat strawberry and banana custard comfort food,122791.0,"['banana', 'custard', 'strawberry jelly', 'artificial sweetener', 'cinnamon']","[711.7, 15.0, 43.0, 18.0, 22.0, 16.0, 49.0]",2.0,0.192
+70,african spinach,309722.0,"['onion', 'green bell pepper', 'peanut oil', 'fresh spinach', 'tomatoes', 'salt', 'pepper', 'peanut butter']","[210.1, 23.0, 21.0, 19.0, 16.0, 14.0, 4.0]",15.0,0.192
+71,almost green scrambled eggs with spinach,20324.0,"['flour', 'milk', 'sour cream', 'eggs', 'salt & pepper', 'cheddar cheese', 'fresh spinach', 'thyme', 'lite olive oil']","[425.7, 43.0, 7.0, 16.0, 48.0, 73.0, 5.0]",15.0,0.191
+72,the elvis  smoothie,111875.0,"['banana', 'natural-style peanut butter', '2% low-fat milk', 'sugar-free non-fat vanilla yogurt']","[354.2, 29.0, 94.0, 2.0, 26.0, 24.0, 12.0]",2.0,0.191
+73,amazingly easy three ingredient creamed spinach,285124.0,"['frozen chopped spinach', 'lipton onion soup mix', 'sour cream']","[361.2, 41.0, 17.0, 41.0, 30.0, 79.0, 7.0]",17.0,0.190
+74,amish  tomato ketchup  for canning,44061.0,"['tomato juice', 'apple cider vinegar', 'sugar', 'salt', 'pepper', 'clove oil', 'cinnamon oil', 'dry mustard']","[352.9, 1.0, 337.0, 23.0, 3.0, 0.0, 28.0]",190.0,0.190
+75,amaretto apple cake,101118.0,"['butter', 'eggs', 'vanilla extract', 'flour', 'sugar', 'baking powder', 'ground cinnamon', 'milk', 'almond flavored liqueur', 'apple']","[2249.3, 167.0, 497.0, 58.0, 75.0, 322.0, 94.0]",60.0,0.190
+76,baked  apple cinnamon oatmeal,372665.0,"['apple', 'brown sugar', 'cinnamon', 'oats', 'dried cranberries', 'margarine', 'oatmeal']","[109.3, 5.0, 38.0, 1.0, 3.0, 3.0, 6.0]",10.0,0.189
+77,amazing stuffed capsicum,99563.0,"['banana peppers', 'bacon', 'onions', 'garlic', 'mozzarella cheese', 'tasty cheese', 'mixed italian herbs', 'oregano', 'salt']","[188.8, 22.0, 10.0, 24.0, 14.0, 30.0, 2.0]",25.0,0.189
+78,a a a absolutely the cranberry relish,269418.0,"['fresh cranberries', 'apples', 'raisins', 'brown sugar', 'apple juice concentrate']","[128.1, 0.0, 103.0, 0.0, 1.0, 0.0, 11.0]",20.0,0.189
+79,amish cooked salad dressing,109340.0,"['egg', 'water', 'all-purpose flour', 'dry mustard', 'sugar', 'apple cider vinegar', 'vegetable oil', 'lemon juice']","[119.9, 13.0, 27.0, 0.0, 1.0, 5.0, 3.0]",10.0,0.189
+80,a b c sandwich,170017.0,"['white bread', 'bologna', 'processed cheese', 'apple']","[319.1, 22.0, 42.0, 39.0, 21.0, 32.0, 12.0]",5.0,0.187
+81,rise and shine  german fruit pancake,71457.0,"['eggs', 'flour', 'milk', 'salt', 'butter', 'powdered sugar', 'apple pie filling', 'toasted almonds']","[253.0, 13.0, 64.0, 10.0, 11.0, 16.0, 13.0]",45.0,0.186
+82,afghan monkey,172729.0,"['coconut rum', 'melon liqueur', 'banana liqueur', 'blue curacao', 'pineapple juice', 'cream']","[375.0, 13.0, 45.0, 0.0, 2.0, 27.0, 5.0]",5.0,0.186
+83,amazing spinach bacon quiche,320931.0,"['frozen spinach', 'bacon', 'skim milk', 'eggs', 'cheddar cheese', 'salt and pepper', 'pie crust']","[458.2, 49.0, 2.0, 26.0, 41.0, 68.0, 6.0]",95.0,0.185
+84,aloha quick bread,299420.0,"['butter', 'sugar', 'eggs', 'banana', 'milk', 'orange peel', 'vanilla extract', 'almond extract', 'all-purpose flour', 'baking soda', 'salt', 'flaked coconut', 'nuts', 'crushed pineapple']","[3673.7, 255.0, 1094.0, 162.0, 115.0, 445.0, 167.0]",110.0,0.185
+85,100 calorie fruit cupcakes,286807.0,"['egg beaters egg substitute', 'brown sugar', 'applesauce', 'vanilla', 'peaches', 'banana', 'unbleached flour', 'baking powder', 'baking soda']","[87.1, 0.0, 40.0, 5.0, 3.0, 0.0, 6.0]",25.0,0.183
+86,am  applesauce w english mixed spice inspired by a french tart,408013.0,"['apples', 'sugar', 'mixed spice', 'salt', 'lemon juice', 'unsweetened apple juice']","[122.1, 0.0, 100.0, 1.0, 1.0, 0.0, 10.0]",40.0,0.183
+87,american kitchen classic lexington style red slaw,475963.0,"['ketchup', 'apple cider vinegar', 'sugar', 'hot sauce', 'kosher salt', 'ground black pepper', 'cabbage']","[134.5, 0.0, 110.0, 39.0, 4.0, 0.0, 10.0]",20.0,0.183
+88,360 rocket salad  arugula,276601.0,"['walnut pieces', 'arugula', 'gorgonzola', 'granny smith apple', 'walnut oil', 'apple cider vinegar', 'shallots', 'garlic cloves', 'salt', 'fresh ground black pepper', 'calvados']","[355.1, 52.0, 13.0, 6.0, 12.0, 24.0, 2.0]",25.0,0.183
+89,more  more    apple pear jigglers,63593.0,"['unflavored gelatin', 'milk', 'cream cheese', 'yogurt', 'apple', 'pear']","[22.9, 1.0, 5.0, 0.0, 1.0, 3.0, 0.0]",125.0,0.183
+90,all bran banana bread,69170.0,"['all-bran cereal', 'whole wheat flour', 'baking powder', 'bicarbonate of soda', '1% low-fat milk', 'caster sugar', 'egg', 'water', 'banana']","[109.0, 1.0, 52.0, 5.0, 6.0, 1.0, 8.0]",55.0,0.182
+91,6 layer mediterranean dip,117512.0,"['cream cheese', 'feta cheese', 'milk', 'dried basil', 'frozen spinach', 'tomatoes', 'green onions', 'black olives']","[93.4, 12.0, 4.0, 8.0, 7.0, 25.0, 0.0]",10.0,0.182
+92,7 fruit salad,127995.0,"['lime juice', 'water', 'sugar', 'nectarines', 'banana', 'blueberries', 'strawberry', 'watermelon', 'grapes', 'kiwi']","[149.6, 0.0, 120.0, 0.0, 3.0, 0.0, 12.0]",25.0,0.182
+93,a date with a banana smoothie,406190.0,"['banana', 'dates', 'plain nonfat yogurt', 'low-fat milk', 'protein powder', 'flax seed meal', 'vanilla']","[260.1, 7.0, 122.0, 4.0, 20.0, 6.0, 15.0]",2.0,0.181
+94,3 minute apple crumble,359609.0,"['green apple', 'applesauce', 'cinnamon', 'digestive biscuits']","[198.0, 0.0, 75.0, 1.0, 1.0, 0.0, 17.0]",3.0,0.179
+95,5 minute mint chutney,11324.0,"['fresh mint leaves', 'onion', 'salt', 'sugar', 'apple cider vinegar', 'black pepper', 'green chili', 'tomatoes', 'ground cumin']","[73.2, 0.0, 45.0, 6.0, 3.0, 0.0, 5.0]",10.0,0.177
+96,berry good  smoothie,28951.0,"['apple juice', 'strawberry', 'raspberries', 'blackberry', 'blueberries']","[133.0, 1.0, 103.0, 0.0, 2.0, 0.0, 10.0]",5.0,0.176
+97,cream  of spinach soup,76808.0,"['water', 'salt', 'boiling potatoes', 'fresh spinach leaves', 'unsalted butter', 'coarse salt', 'fresh ground black pepper', 'nutmeg']","[126.0, 11.0, 2.0, 14.0, 5.0, 23.0, 4.0]",45.0,0.175
+98,i can t believe it s spinach,38798.0,"['frozen chopped spinach', 'eggs', 'garlic powder', 'soft breadcrumbs', 'oregano', 'margarine', 'sage', 'onion']","[53.8, 5.0, 2.0, 3.0, 3.0, 3.0, 1.0]",30.0,0.173
+99,all bran apple oatmeal,302909.0,"['water', 'rolled oats', 'all-bran cereal', 'cinnamon', 'salt', 'walnuts', 'apple', 'milk']","[255.9, 8.0, 64.0, 11.0, 19.0, 9.0, 18.0]",15.0,0.171

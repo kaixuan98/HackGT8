@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
     </head>
-    <body>
+    <body style="margin:10vw">
         <!-- buttons for filters -->
         <form action="{{url_for('filter_nutrition')}}" method="post">
             <label for="nutrition">Type of Nutrition: </label>
@@ -25,21 +25,22 @@
             <input type="submit" value="Filter">
         </form> 
         <!-- filter result -->
+        <h4>Number of Result: {{items | length}}</h4>
         <!-- <p>{{items}}</p> -->
-        <table>
+        <table style="border:1px solid rgb(0, 0, 0)">
             <tr>
-                <th>#</th>
-                <th>Name</th>
-                <th>ingredients</th>
-                <th>Prep time(mins)</th>
+                <th style="border:1px solid black">#</th>
+                <th style="border:1px solid black">Name</th>
+                <th style="border:1px solid black">ingredients</th>
+                <th style="border:1px solid black">Prep time(mins)</th>
             </tr>
            
             {% for i in range(items|length) %}
             <tr>
-                <td>{{i}}</td>
-                <td>{{items[i]["name"]}}</td>
-                <td>{{items[i]["ingredients"]}}</td>
-                <td>{{items[i]["minutes"]}}</td>
+                <td style="border:1px solid black">{{i}}</td>
+                <td style="border:1px solid black">{{items[i]["name"]}}</td>
+                <td style="border:1px solid black">{{items[i]["ingredients"]}}</td>
+                <td style="border:1px solid black">{{items[i]["minutes"]}}</td>
             </tr>
             {% endfor %}
             

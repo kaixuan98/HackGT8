@@ -9,7 +9,7 @@ def ogdataset(RECIPES_PATH):
 
 def dataset(recipe_df): 
      new_recipe_df = recipe_df.copy()
-     new_recipe_df = new_recipe_df[:10000]
+     new_recipe_df = new_recipe_df[:5000]
      new_columns = ['name' ,'id' , 'ingredients']
      new_recipe_df = new_recipe_df.drop([c for c in new_recipe_df.columns if c not in new_columns], axis='columns')
      return new_recipe_df
